@@ -1,0 +1,39 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+**/build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+signing.properties
+
+# Log/Crash files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Generated files
+bin/
+gen/
+
+# Keystore files (never commit signing keys!)
+*.jks
+*.keystore
+
+# NDK
+obj/
+.externalNativeBuild
+
+# CMake
+.cxx/
+
+# OSX files
+.DS_Store
